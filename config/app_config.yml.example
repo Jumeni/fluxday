@@ -7,7 +7,7 @@ development:
 
 production:
   google:
-    key:        'google access key'
-    secret:     'google secret'
+    key:        '376584770634-dt00qutfqe3mqhlh8dm41bvvmkpmaej2.apps.googleusercontent.com'
+    secret:     '-iGKd4UglpTrl2Gw3Z-cBX8A'
     scope:      "userinfo.email, userinfo.profile, http://gdata.youtube.com, https://www.googleapis.com/auth/youtube"
-    callback_url: "http://localhost:9292/users/auth/google_oauth2/callback"
+    callback_url: "http://okr.jumeni.co:9292/users/auth/google_oauth2/callback"
